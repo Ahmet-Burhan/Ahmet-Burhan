@@ -1,4 +1,4 @@
-﻿<img src="https://github-readme-stats.vercel.app/api?username=fidanfatih&show_icons=true&theme=buefy" align='right' width="55%">
+﻿<img src="https://github-readme-stats.vercel.app/api?username=Ahmet-Burhan&show_icons=true&theme=buefy" align='right' width="55%">
 
 ### Hi there, I’m Burhan 👋
 - :100: I have been fascinated by the power of the data.
