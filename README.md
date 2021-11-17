@@ -22,13 +22,10 @@ Here are some ideas to get you started:
 
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="Scrapy" width="65px" src="https://miro.medium.com/max/688/1*N_SpRC3lO_Y0KeTlfH-WfA.png"/>
+
 <img align="left" alt="SQL" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/>
-<img align="left" alt="Tensorflow" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>
 
-<img align="left" alt="Keras" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png"/>
 
-<img align="left" alt="Spark" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/582px-Apache_Spark_logo.svg.png"/>
 
 <img align="left" alt="Scikit Learn" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWqe8229UE1DsRYR06QaKSop6cyWqcewXbXw&usqp=CAU" />
 
