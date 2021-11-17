@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Pandas" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>
 
-<img align="left" alt="AWS" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png"/>
+
 
 <img align="left" alt="Tableau" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVw8Ka8GJ6Oqnjwdj47ZIPyFijvcLJgqKhfg&usqp=CAU" />
 
