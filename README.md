@@ -1,14 +1,12 @@
 ﻿<img src="https://github-readme-stats.vercel.app/api?username=fidanfatih&show_icons=true&theme=buefy" align='right' width="55%">
 
-### Hi there, I’m Fatih 👋
+### Hi there, I’m Burhan 👋
 - :100: I have been fascinated by the power of the data.
 - :writing_hand: I can use BI tools for Data Analysis and ML.
 - :handshake: I always open to new ideas and new experiences.
 
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/fatihfidan/)
-[![Tableau](https://img.shields.io/badge/tableau-%2312100E.svg?&style=for-the-badge&logo=tableau&logoColor=orange)]( https://public.tableau.com/profile/fatih.fidan#!/)
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fatihfidan)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/ahmetburhanboztash/)
 <!--
 **fidanfatih/ fidanfatih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
